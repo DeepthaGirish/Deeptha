@@ -1,4 +1,4 @@
-#Confocal images analysis for study of LungMap Project
+#Images analysis for LungMap Project
 
 ##Packages to install
 
